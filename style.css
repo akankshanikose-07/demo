@@ -3,4 +3,9 @@ color: red;
 }
 p{
     color: blue;
+    
+}
+button{
+    background-color: green;
+    color: white;
 }
